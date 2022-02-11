@@ -18,29 +18,51 @@
    valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
    
    *Medicion con 0Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/0Hz.PNG)
+   
    *Medicion con 10Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/10Hz.PNG)
+   
    *Medicion con 50Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/2170a657caa82d1eb6c5049b6d0e44bcfe51580f/50Hz.PNG)
+   
    *Medicion con 100Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/100Hz.PNG)
+   
    *Medicion con 500Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/500Hz.PNG)
+   
    *Medicion con 1000Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/1000Hz.PNG)
    
    *Medicion con 0Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/0L.PNG)
+   
    *Medicion con 10Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/10L.PNG)
+   
    *Medicion con 50Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/50L.PNG)
+   
    *Medicion con 100Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/100L.PNG)
+   
    *Medicion con 500Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/500L.PNG)
+   
    *Medicion con 1000Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/1000L.PNG)
    
    
@@ -49,67 +71,118 @@
    de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
    
    *Medicion con 0Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/0V.PNG)
+   
    *Medicion con 10Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/10V.PNG)
+   
    *Medicion con 50Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/100V.PNG)
+   
    *Medicion con 100Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/50V.PNG)
+   
    *Medicion con 500Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/500V.PNG)
+   
    *Medicion con 1000Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/1000V.PNG)
    
    *Medicion con 0Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/0LV.PNG)
+   
    *Medicion con 10Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/10LV.PNG)
+   
    *Medicion con 50Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/50LV.PNG)
+   
    *Medicion con 100Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/100LV.PNG)
+   
    *Medicion con 500Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/500LV.PNG)
+   
    *Medicion con 1000Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/1000LV.PNG)
    
    c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la 
    frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
    
    *Medicion con 0Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/A0.PNG)
+   
    *Medicion con 10Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/A10.PNG)
+   
    *Medicion con 500Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/A50.PNG)
+   
    *Medicion con 100Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/A100.PNG)
+   
    *Medicion con 500Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/A500.PNG)
+   
    *Medicion con 1000Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/1000A.PNG)
    
    
    *Medicion con 0Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/0LA.PNG)
+   
    *Medicion con 10Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/10LA.PNG)
+   
    *Medicion con 50Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/50LA.PNG)
+   
    *Medicion con 100Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/100LA.PNG)
+   
    *Medicion con 500Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/500LA.PNG)
+   
    *Medicion con 1000Hz*
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/1000LA.PNG)
    
    
     
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+
+
    ![](https://github.com/jlcastro5/Laboratorio7/blob/8789ebace3b7c3792876e7529fdb199f19e09cf9/capacitador.PNG)
+   
+   
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/8789ebace3b7c3792876e7529fdb199f19e09cf9/Inductor.PNG)
+   
+   
    ![](https://github.com/jlcastro5/Laboratorio7/blob/8789ebace3b7c3792876e7529fdb199f19e09cf9/Corriente.PNG)
 
 
