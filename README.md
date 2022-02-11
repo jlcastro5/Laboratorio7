@@ -174,49 +174,34 @@
     
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-
+   Voltajes del capacitador
 
    ![](https://github.com/jlcastro5/Laboratorio7/blob/8789ebace3b7c3792876e7529fdb199f19e09cf9/capacitador.PNG)
    
-   
+   Voltajes de los inductores
    
    ![](https://github.com/jlcastro5/Laboratorio7/blob/8789ebace3b7c3792876e7529fdb199f19e09cf9/Inductor.PNG)
    
+   Corrientes del capacitador y inductor
    
    ![](https://github.com/jlcastro5/Laboratorio7/blob/8789ebace3b7c3792876e7529fdb199f19e09cf9/Corriente.PNG)
 
-
-
    1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
 
-   Los capacitores en un circuito de corriente continua pasan por dos fases conocidas como fase de transición y 
-   fase de continua. En la fase de estabilización, se producen los fenómenos que se describen en las curvas de 
-   carga del capacitor hasta que se estabiliza y pasa a estar en fase continua, en esta fase la intensidad de 
-   corriente que atravesaría el capacitor es igual a cero entonces se lo toma como una “ rama abierta” en el 
+   Los capacitores cuenta con corriente continua que pasan por dos fases conocidas como fase de transición y 
+   fase de continua y el capacitor es igual a cero entonces se lo toma como una “ rama abierta” en el 
    circuito.
-
-   𝑖(𝑡)=0
-
-   𝑖(𝑡)=𝐶 * (𝑑𝑣(𝑡)/𝑑𝑡) =0 ; 𝑣(𝑡)=𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒
 
    En los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que 
    lo interpretamos como simplemente un “cable” en el circuito.
-
-   𝑣(𝑡)=𝐿 * (𝑑𝑖(𝑡)/𝑑𝑡) =0 ; 𝑖(𝑡)=𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒
    
    2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
 
    El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su 
    comportamiento en un intervalo de tiempo definido.
-
-   𝑖(𝑡)=𝐶 * (𝑑𝑣(𝑡)/𝑑𝑡)
-
-   Entonces se puede representar al capacitor como un elemento pasivo más en el circuito. Al existir una variación
-   de la corriente en un circuito de corriente alterna es posible   conocer los valores que pueden tomar la corriente
-   y la caída de tensión por medio de las funciones que describan a estas variables en un intervalo de tiempo definido.
-
-   𝑖(𝑡)=𝐶 * (𝑑𝑣(𝑡)/𝑑𝑡)
-
+   Al existir una variación de la corriente en un circuito de corriente alterna es posible conocer los valores que
+   pueden tomar la corriente y la caída de tensión por medio de las funciones que describan a estas variables en un
+   intervalo de tiempo definido.
    Entonces se puede representar al inductor como un elemento pasivo más en el circuito.
    
    3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los 
@@ -225,9 +210,6 @@
    
    Lo único que sucedería es que los valores de Vₒ varíen en función de que tanto se altere la impedancia 𝑋 del valor 
    total de impedancia
-
-   𝑍 = 𝑅 + 𝑗𝑋
-
    Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ sería menor y si resulta ser mayor,
    la caída de tensión Vₒ sería mayor teóricamente.
 
@@ -237,8 +219,6 @@
    el mismo comportamiento respecto a potencia suministrada  en el circuito.
 
    𝐹=𝑉𝑎𝑙𝑜𝑟 𝑒𝑓𝑖𝑐𝑎𝑧 ; 𝑓(𝑡)=𝐹𝑢𝑛𝑐𝑖𝑜𝑛 𝑑𝑒 𝑣𝑜𝑙𝑡𝑎𝑗𝑒 𝑜 𝑐𝑜𝑟𝑟𝑒𝑖𝑛𝑡𝑒; 𝑇=𝑝𝑒𝑟𝑖𝑜𝑑𝑜
-
-   𝐹=(√(1/𝑇)) * ∫(𝑓(𝑡)^2)𝑑𝑡 [𝑡0;+𝑇𝑡0]
 
    𝐹=𝑓(𝑡)/√2
 
