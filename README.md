@@ -3,14 +3,14 @@
 
    Objetivo general
    
-      *•	Analizar y comprobar de forma teórica y experimental el funcionamiento que tiene un osciloscopio en el proceso de tomar valores de frecuencia dentro de un circuito eléctrico con fuentes de corriente alterna, de esta manera los estudiantes se familiarizan con el instrumento mediante el uso de simuladores virtuales para de esta manera obtener destreza al momento de tomar valores como la frecuencia, voltajes rms, valores pico a pico y la corriente del circuito. 
+      * Analizar y comprobar de forma teórica y experimental el funcionamiento que tiene un osciloscopio en el proceso de tomar valores de frecuencia dentro de un circuito eléctrico con fuentes de corriente alterna, de esta manera los estudiantes se familiarizan con el instrumento mediante el uso de simuladores virtuales para de esta manera obtener destreza al momento de tomar valores como la frecuencia, voltajes rms, valores pico a pico y la corriente del circuito. 
    
    Objetivos específicos
    
-   *•	Identificar el circuito eléctrico y elaborar un circuito simplificado en el simulador DCACLAB.
-•	Identificar los elementos que esta posee e implementación de osciloscopio.
-•	Tomar de medidas de las frecuencias y los valores pico a pico con los elementos establecidos por el tutor.
-•	Establecer su relación y su funcionamiento en cada una de las frecuencias de la fuente
+   *	Identificar el circuito eléctrico y elaborar un circuito simplificado en el simulador DCACLAB.
+	* Identificar los elementos que esta posee e implementación de osciloscopio.
+   * Tomar de medidas de las frecuencias y los valores pico a pico con los elementos establecidos por el tutor.
+	* Establecer su relación y su funcionamiento en cada una de las frecuencias de la fuente
   
    
 2. MARCO TEORICO
