@@ -15,7 +15,7 @@
    
 2. MARCO TEORICO
 
-   ![](https://github.com/jlcastro5/InformeLaboratorio/blob/c597f921033f53fae5cd7d42b0888270b6273cba/WhatsApp%20Image%202021-11-12%20at%2000.22.47.jpeg)
+   ![](https://github.com/jlcastro5/Laboratorio7/blob/a63b3fbd57fd9e36c4abfd76eb2e238b98563348/WhatsApp%20Image%202022-02-17%20at%2011.45.01.jpeg)
 
 
 3. EXPLICACION DEL PROCEDIMIENTO
