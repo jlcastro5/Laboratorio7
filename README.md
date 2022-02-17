@@ -2,10 +2,16 @@
 1. OBJETIVOS 
 
    Objetivo general
-
+   
+      *•	Analizar y comprobar de forma teórica y experimental el funcionamiento que tiene un osciloscopio en el proceso de tomar valores de frecuencia dentro de un circuito eléctrico con fuentes de corriente alterna, de esta manera los estudiantes se familiarizan con el instrumento mediante el uso de simuladores virtuales para de esta manera obtener destreza al momento de tomar valores como la frecuencia, voltajes rms, valores pico a pico y la corriente del circuito. 
+   
    Objetivos específicos
    
-   * 
+   *•	Identificar el circuito eléctrico y elaborar un circuito simplificado en el simulador DCACLAB.
+•	Identificar los elementos que esta posee e implementación de osciloscopio.
+•	Tomar de medidas de las frecuencias y los valores pico a pico con los elementos establecidos por el tutor.
+•	Establecer su relación y su funcionamiento en cada una de las frecuencias de la fuente
+  
    
 2. MARCO TEORICO
 
@@ -228,7 +234,7 @@
 
 6. CONCLUSIONES
 
-     *	
+     *	El presente laboratorio permitió conocer los temas relacionados con fuentes de corriente alterna y su comportamiento dentro de una circuito electrónico  mediante la toma de medidas con un osciloscopio virtual, el simulador DCACLAB permitió satisfactoriamente conocer cómo se implementaría un osciloscopio en un laboratorio físico siendo de gran ayuda para incrementar los conocimientos acerca del tema  y preparar al alumnado al momento de retornar  a las practicas físicas dentro de un laboratorio real.
 
 
 7. BIBLIOGRAFÍA 
