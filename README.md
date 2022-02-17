@@ -23,6 +23,8 @@
    a. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los 
    valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
    
+   ![](https://github.com/jlcastro5/Laboratorio7/blob/43eacc25ad0df2068d01fc24b252e642e34eda0d/CAPACITADOR.PNG)
+   
    *Medicion con 0Hz*
    
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/0Hz.PNG)
@@ -46,6 +48,9 @@
    *Medicion con 1000Hz*
    
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/1000Hz.PNG)
+   
+   
+   ![](https://github.com/jlcastro5/Laboratorio7/blob/43eacc25ad0df2068d01fc24b252e642e34eda0d/INDUCTOR.PNG)
    
    *Medicion con 0Hz*
    
