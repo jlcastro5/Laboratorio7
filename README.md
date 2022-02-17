@@ -81,6 +81,8 @@
    b. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores 
    de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
    
+   **CAPACITADOR**
+   
    *Medicion con 0Hz*
    
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/0V.PNG)
@@ -104,6 +106,8 @@
    *Medicion con 1000Hz*
    
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/1000V.PNG)
+   
+   **INDUCTOR**
    
    *Medicion con 0Hz*
    
@@ -132,6 +136,8 @@
    c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la 
    frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
    
+   **CAPACITADOR**
+   
    *Medicion con 0Hz*
    
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/A0.PNG)
@@ -156,6 +162,7 @@
    
    ![](https://github.com/jlcastro5/Laboratorio7/blob/ef9b7498bcba20bd58e6a883fe015f403ad55a4c/1000A.PNG)
    
+   **INDUCTORES**
    
    *Medicion con 0Hz*
    
